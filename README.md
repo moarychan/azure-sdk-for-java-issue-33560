@@ -1,4 +1,4 @@
-## Support OAuth2 user service custom authorization permission conversion
+## Support OAuth2 user service custom granted authorities conversion
 
 Workaround for issue https://github.com/Azure/azure-sdk-for-java/issues/33560
 
